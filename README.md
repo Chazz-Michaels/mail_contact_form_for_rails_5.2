@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Rails v. 5.2
 
-Things you may want to cover:
+This is a working contact form for Rails using the ActionMailer to send an email from website to your private email address.
 
-* Ruby version
+Currently working in Development and Testing environments
 
-* System dependencies
+Next step: work in production environment, hosting with Heroku
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Stay tuned! 
